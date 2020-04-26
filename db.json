@@ -1,15 +1,15 @@
 {
-    categorias: [
+    "categorias": [
         {
-            id: 1,
-            nombre: "Verduras"
+            "id": 1,
+            "nombre": "Verduras"
         },
         {
-            id: 2,
-            nombre: "Frutas"
+            "id": 2,
+            "nombre": "Frutas"
         }
     ],
-    productos: [
+    "productos": [
         {
             "idProducto": 0,
             "idCategoria": 1,
